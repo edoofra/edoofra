@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edoofra
-- 👀 I’m interested in mobile programming, specially Swift and Java.
-- 🌱 I’m currently learning Swift.
+- 👀 I’m interested in machine learning and web development.
+- 🌱 I’m currently learning Javascript.
 - 📫 How to reach me: edoardo.fra.ef@gmail.com for collaborations and proposal.
 
 <!---
